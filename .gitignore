@@ -1,0 +1,19 @@
+# Compiled files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Output directories
+out/
+target/
+
+# Logs
+*.log
+
+# Sensitive files
+*.env
+
+# Database (if sensitive data exists)
+employeeemanagement.sql
